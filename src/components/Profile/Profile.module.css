@@ -1,0 +1,9 @@
+.Profile{
+    grid-area: p;
+    background: red;
+}
+.profile_blog{
+    border: 1px solid black;
+    width: 50%;
+    background:silver;
+}
