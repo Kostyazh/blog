@@ -1,8 +1,8 @@
-.Nav {
+.Navbar {
     grid-area: n;
     background: orange;
 }
-.Nav a {
+.Navbar a {
     display: block;
     text-decoration: none;
     color: black;
@@ -11,4 +11,8 @@
     margin-bottom: 10px;
     text-align: center;
     background:silver;
+}
+
+.item .active_item {
+color: red;  
 }
